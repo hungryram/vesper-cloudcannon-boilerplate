@@ -486,7 +486,6 @@ _structures:
         value:
           _type: blog-category
           template: side-blog-category
-          comment: Nothing to configure, categories will display.
       - label: "Custom Text"
         value:
           _type: custom-text
@@ -614,6 +613,6 @@ _structures:
           heading:
           body:
           blocks:
-            heading:
+          - heading:
             image:
             link:
