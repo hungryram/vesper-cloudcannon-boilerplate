@@ -1,2 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
+[[module.imports]]
+path = "github.com/hungryram/vesper-main-template-module"
