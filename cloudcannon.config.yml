@@ -118,6 +118,18 @@ paths:
   # The default location for newly uploaded files, relative to source
   uploads: static/uploads/
 _inputs:
+  equal_housing_logo:
+    type: switch
+  mls_logo:
+    type: switch
+  realtor_logo:
+    type: switch
+  call_to_action_link:
+    type: url
+  call_to_action_label:
+    type: text
+  remove_call_to_action:
+    type: checkbox
   is_post:
     hidden: true
   idx_title_background_color:
@@ -161,6 +173,7 @@ _inputs:
     type: array
   specialty:
     type: array
+    label: Specialties
   website:
     type: text
     comment: Include the full URL with https://
@@ -189,6 +202,7 @@ _inputs:
     type: image
   hoa:
     comment: Include the dollar sign and any additional information.
+    label: HOA
   url:
     type: text
     comment: URL is generated automatically on page creation. Changing the URL can cause page link to break.
@@ -199,6 +213,7 @@ _inputs:
     type: markdown
   mls_number:
     type: text
+    label: MLS Number
   open_house_date:
     type: text
   date:
@@ -486,6 +501,7 @@ _structures:
         value:
           _type: blog-category
           template: side-blog-category
+          comment: Nothing to configure, categories will display.
       - label: "Custom Text"
         value:
           _type: custom-text
