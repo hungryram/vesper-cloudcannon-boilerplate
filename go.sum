@@ -6,3 +6,5 @@ github.com/hungryram/vesper-main-template-module v0.0.0-20220228000226-ce5bde69b
 github.com/hungryram/vesper-main-template-module v0.0.0-20220228000226-ce5bde69bd96/go.mod h1:Kzv6mXUhWwAvLcFAg6Nymg6JySHw6BRX3wP5MP+ysAA=
 github.com/hungryram/vesper-main-template-module v0.0.0-20220228000548-27af37e57380 h1:k8w3gwcwhD1AXFo1jRxyd6hmwQpMw4GLbB95J/t8TL8=
 github.com/hungryram/vesper-main-template-module v0.0.0-20220228000548-27af37e57380/go.mod h1:Kzv6mXUhWwAvLcFAg6Nymg6JySHw6BRX3wP5MP+ysAA=
+github.com/hungryram/vesper-main-template-module v0.0.0-20220228015855-741865b2f7fb h1:4vqigCobh6smRFF+JsEOh+46vjYqvws0A7EU4tZIF9Q=
+github.com/hungryram/vesper-main-template-module v0.0.0-20220228015855-741865b2f7fb/go.mod h1:Kzv6mXUhWwAvLcFAg6Nymg6JySHw6BRX3wP5MP+ysAA=
